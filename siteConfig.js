@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://faktor301.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://freesilverguide.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "faktor301", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "freesilverguide", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "faktor301", // This allows an alternative site description for meta data for pages.
+    "freesilverguide", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "faktor301", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "freesilverguide", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "faktor301",
+    title: "freesilverguide",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://faktor301.com/",
+        url: "https://freesilverguide.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://faktor301.com/contact",
+        url: "https://freesilverguide.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://faktor301.com/",
+        url: "https://freesilverguide.com/",
       },
       {
         label: "Sitemap",
-        url: "https://faktor301.com/sitemap.xml",
+        url: "https://freesilverguide.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://faktor301.com/contact",
+        url: "https://freesilverguide.com/contact",
       },
       
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "faktor301",
+    title: "freesilverguide",
     description:
-      "faktor301",
+      "freesilverguide",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "faktor301",
+    title: "freesilverguide",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "faktor301",
+  siteTitle: "freesilverguide",
   siteDescription:
-    "faktor301",
+    "freesilverguide",
   language: "he",
   logoUrl: "",
   iconUrl: "",
